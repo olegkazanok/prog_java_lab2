@@ -1,11 +1,10 @@
 package com.company;
 
 import java.awt.*;
-import java.awt.event.*; // для отслеживания нажатий
-import javax.swing.*;  // для создания GUI
+import java.awt.event.*;
+import javax.swing.*;
 
 import static java.lang.Math.*;
-// comment for git
 
 public class Formula extends JFrame{
 
